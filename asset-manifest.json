@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/WebShakes-SearchEngine/static/css/main.5c941fde.css",
+    "main.js": "/WebShakes-SearchEngine/static/js/main.7f567bed.js",
+    "index.html": "/WebShakes-SearchEngine/index.html",
+    "main.5c941fde.css.map": "/WebShakes-SearchEngine/static/css/main.5c941fde.css.map",
+    "main.7f567bed.js.map": "/WebShakes-SearchEngine/static/js/main.7f567bed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c941fde.css",
+    "static/js/main.7f567bed.js"
+  ]
+}
