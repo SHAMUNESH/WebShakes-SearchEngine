@@ -1,4 +1,4 @@
-# WebShakes! - A Clone Google's Search Engine (Web Crawls)
+# WebShakes! - A Clone of Google's Search Engine (Web Crawls)
 Tech Stack Used: 
 - React JS 
 - Tailwind CSS
