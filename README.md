@@ -6,7 +6,7 @@ Tech Stack Used:
 ![projectss1](https://user-images.githubusercontent.com/64699355/151504225-d6924075-af36-4ee0-b3e8-74c9b43a8df4.jpg)
 
 # React Dependencies
-- Rreact-router-dom@v5
+- React-router-dom@v5
 - react-loader-spinner@v4
 - use-debounce@v7
 - react-player@v2
