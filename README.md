@@ -3,6 +3,7 @@ Tech Stack Used:
 - React JS 
 - Tailwind CSS
 - RapidAPI (Google Search API by https://rapidapi.com/user/apigeek)
+# Deployed here: https://webshakes-search-engine.netlify.app
 ![projectss1](https://user-images.githubusercontent.com/64699355/151504225-d6924075-af36-4ee0-b3e8-74c9b43a8df4.jpg)
 
 # React Dependencies
